@@ -14,3 +14,4 @@ def convert_dec(num):
 
 	return sum(lst) 
 
+""" Converts from binary to decimal """
